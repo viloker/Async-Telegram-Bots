@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+
+
+# MacOS files
+.DS_Store
+
+.idea/
+.idea
+*.iml
+
+*.session
+
+*.db
+*.sqlite
